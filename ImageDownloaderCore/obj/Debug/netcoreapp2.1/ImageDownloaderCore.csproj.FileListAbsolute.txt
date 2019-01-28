@@ -1,0 +1,22 @@
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.deps.json
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.runtimeconfig.json
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.runtimeconfig.dev.json
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.pdb
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.csprojAssemblyReference.cache
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.csproj.CoreCompileInputs.cache
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.AssemblyInfoInputs.cache
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.AssemblyInfo.cs
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.pdb
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.csprojAssemblyReference.cache
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.csproj.CoreCompileInputs.cache
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.AssemblyInfoInputs.cache
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.AssemblyInfo.cs
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.dll
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/obj/Debug/netcoreapp2.1/ImageDownloaderCore.pdb
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.deps.json
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.runtimeconfig.json
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.runtimeconfig.dev.json
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.dll
+/Volumes/JacobClark/PersonalProjects/Repositories/ImageDownloaderCore/ImageDownloaderCore/bin/Debug/netcoreapp2.1/ImageDownloaderCore.pdb
